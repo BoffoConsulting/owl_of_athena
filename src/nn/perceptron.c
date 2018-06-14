@@ -61,7 +61,6 @@
 
 
 
-
 /* Global Variables */
 int correct = 0;
 int incorrect = 0;
